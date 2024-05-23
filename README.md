@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack 
 - 📫 How to reach me subhasriekula@gmail.com
 - 😄 Pronouns: she/her
-- 
+
 
 <!---
 Subhasriekula/Subhasriekula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
